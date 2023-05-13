@@ -2,6 +2,7 @@
 
 ## Domain:  Tourism | Function: Revenue / Municipal Administration
 
+![img](Images\Charminar.jpg)
 
 **The Telangana Government Tourism Department** is responsible for promoting and developing tourism in the Indian state of Telangana. Its main objectives are to attract tourists to Telangana, create tourism infrastructure, and develop new tourism products. The department offers a variety of tourism services and facilities such as accommodation, transportation, and tour packages. It also organizes various events and festivals throughout the year to showcase the state's culture and heritage.
 
