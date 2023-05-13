@@ -1,5 +1,5 @@
 # Provide Insights to Telangana Government Tourism Department
-<span style="color:red">Provide Insights For Telangana Government Tourism Department</span>
+
 ## Domain:  Tourism | Function: Revenue / Municipal Administration
 
 ![img](https://github.com/Abdul-Jaweed/Telangana-Government-Tourism/blob/main/Images/Charminar.jpg)
