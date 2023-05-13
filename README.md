@@ -1,5 +1,5 @@
 # Provide Insights to Telangana Government Tourism Department
-
+#  <span style="color:red">Provide Insights For Telangana Government Tourism Department</span>
 ## Domain:  Tourism | Function: Revenue / Municipal Administration
 
 ![img](https://github.com/Abdul-Jaweed/Telangana-Government-Tourism/blob/main/Images/Charminar.jpg)
@@ -23,4 +23,7 @@ Peter began his work by framing some primary, and secondary research questions a
 - Sample Presentation
 
 
-**Credits:** The dataset is taken from Open Data Telangana. Thanks to Telangana Government for providing real-time datasets for public access which is a great learning asset - feel free to explore them [here](https://data.telangana.gov.in/). 
+**Credits:** The dataset is taken from Open Data Telangana. Thanks to Telangana Government for providing real-time datasets for public access which is a great learning asset - feel free to explore them [here](https://data.telangana.gov.in/).
+
+
+
