@@ -1,6 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)]([https://www.linkedin.com/in/johndoe](https://www.linkedin.com/in/abdul-jaweed-datascientist/))
 
 
+
 # Provide Insights to Telangana Government Tourism Department
 
 ## Domain:  Tourism | Function: Revenue / Municipal Administration
