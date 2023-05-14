@@ -4,6 +4,20 @@
 
 ![img](https://github.com/Abdul-Jaweed/Telangana-Government-Tourism/blob/main/Images/Charminar.jpg)
 
+
+## Telangana
+
+Telangana is a state in southern India with a rich history and diverse cultural heritage. The state offers a range of tourism experiences, from ancient temples and monuments to modern cities and scenic natural landscapes.
+
+Some of the popular tourist destinations in Telangana include the iconic Charminar monument in Hyderabad, the historic Golconda Fort, the magnificent Warangal Fort and Thousand Pillar Temple, the Nagarjuna Sagar Dam, and the picturesque hill stations like Ananthagiri and Horsley Hills.
+
+Telangana is also known for its rich cuisine, including spicy biryanis, delicious curries, and traditional sweets like double ka meetha and qubani ka meetha.
+
+Overall, Telangana tourism offers a unique blend of history, culture, nature, and gastronomy, making it a must-visit destination for any traveler exploring India.
+
+
+
+
 **The Telangana Government Tourism Department** is responsible for promoting and developing tourism in the Indian state of Telangana. Its main objectives are to attract tourists to Telangana, create tourism infrastructure, and develop new tourism products. The department offers a variety of tourism services and facilities such as accommodation, transportation, and tour packages. It also organizes various events and festivals throughout the year to showcase the state's culture and heritage.
 
 **Telangana** is one of India’s leading states and has published its tourism data under its open data policy.
